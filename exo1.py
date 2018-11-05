@@ -1,5 +1,5 @@
 print("hello world")
 
-chat="Perceval"
+chatb="Perceval"
 
 print(chat)
